@@ -3,7 +3,7 @@
     "description": "Combodate.",
     "author": "Wahyu AW",
     "homepage": "https://github.com/wahyuaw/meteor-combodate",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "git": "https://github.com/wahyuaw/meteor-combodate.git",
     "packages": {}
 }
