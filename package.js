@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "Combodate."
+    summary: "packaging Combodate for meteor JS."
 });
 
 Package.on_use(function(api) {

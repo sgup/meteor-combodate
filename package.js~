@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "Highcharts with exporting."
+    summary: "Combodate."
 });
 
 Package.on_use(function(api) {
