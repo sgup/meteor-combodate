@@ -1,9 +1,0 @@
-{
-    "name": "combodate",
-    "description": "packaging Combodate for meteor JS.",
-    "author": "Wahyu AW",
-    "homepage": "https://github.com/wahyuaw/meteor-combodate",
-    "version": "0.0.2",
-    "git": "https://github.com/wahyuaw/meteor-combodate.git",
-    "packages": {}
-}
